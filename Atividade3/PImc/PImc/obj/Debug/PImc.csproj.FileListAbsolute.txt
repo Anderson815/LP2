@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\bin\Debug\PImc.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\bin\Debug\PImc.exe
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\bin\Debug\PImc.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\obj\Debug\PImc.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\obj\Debug\PImc.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\obj\Debug\PImc.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\obj\Debug\PImc.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\obj\Debug\PImc.exe
+c:\users\aluno\documents\visual studio 2013\Projects\PImc\PImc\obj\Debug\PImc.pdb
