@@ -1,0 +1,20 @@
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\bin\Debug\PTriangulos.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\bin\Debug\PTriangulos.exe
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\bin\Debug\PTriangulos.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\obj\Debug\PTriangulos.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\obj\Debug\PTriangulos.form.resources
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\obj\Debug\PTriangulos.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\obj\Debug\PTriangulos.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\obj\Debug\PTriangulos.exe
+c:\users\aluno\documents\visual studio 2013\Projects\PTriangulos\PTriangulos\obj\Debug\PTriangulos.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\bin\Debug\PTriangulos.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\bin\Debug\PTriangulos.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\bin\Debug\PTriangulos.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\obj\Debug\PTriangulos.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\obj\Debug\PTriangulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\obj\Debug\PTriangulos.form.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\obj\Debug\PTriangulos.Properties.Resources.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\obj\Debug\PTriangulos.csproj.GenerateResource.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\obj\Debug\PTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\obj\Debug\PTriangulos.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade4\PTriangulos\PTriangulos\obj\Debug\PTriangulos.pdb
