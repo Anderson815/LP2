@@ -1,0 +1,32 @@
+C:\Users\0030482121036\Desktop\Psalario\Psalario\bin\Debug\Psalario.exe.config
+C:\Users\0030482121036\Desktop\Psalario\Psalario\bin\Debug\Psalario.exe
+C:\Users\0030482121036\Desktop\Psalario\Psalario\bin\Debug\Psalario.pdb
+C:\Users\0030482121036\Desktop\Psalario\Psalario\obj\Debug\Psalario.csprojResolveAssemblyReference.cache
+C:\Users\0030482121036\Desktop\Psalario\Psalario\obj\Debug\Psalario.Form1.resources
+C:\Users\0030482121036\Desktop\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+C:\Users\0030482121036\Desktop\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.Cache
+C:\Users\0030482121036\Desktop\Psalario\Psalario\obj\Debug\Psalario.exe
+C:\Users\0030482121036\Desktop\Psalario\Psalario\obj\Debug\Psalario.pdb
+D:\Anderson\LP2\Psalario\Psalario\bin\Debug\Psalario.exe.config
+D:\Anderson\LP2\Psalario\Psalario\obj\Debug\Psalario.exe
+D:\Anderson\LP2\Psalario\Psalario\obj\Debug\Psalario.pdb
+C:\Users\aluno\Desktop\Psalario\Psalario\bin\Debug\Psalario.exe.config
+C:\Users\aluno\Desktop\Psalario\Psalario\obj\Debug\Psalario.exe
+C:\Users\aluno\Desktop\Psalario\Psalario\obj\Debug\Psalario.pdb
+C:\Users\aluno\Desktop\Psalario\Psalario\bin\Debug\Psalario.exe
+C:\Users\aluno\Desktop\Psalario\Psalario\bin\Debug\Psalario.pdb
+C:\Users\aluno\Desktop\Psalario\Psalario\obj\Debug\Psalario.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Psalario\Psalario\obj\Debug\Psalario.Form1.resources
+C:\Users\aluno\Desktop\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+C:\Users\aluno\Desktop\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.Cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\bin\Debug\Psalario.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\bin\Debug\Psalario.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\bin\Debug\Psalario.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\obj\Debug\Psalario.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\obj\Debug\Psalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\obj\Debug\Psalario.Form1.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\obj\Debug\Psalario.Properties.Resources.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\obj\Debug\Psalario.csproj.GenerateResource.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\obj\Debug\Psalario.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\obj\Debug\Psalario.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade5\Psalario\Psalario\obj\Debug\Psalario.pdb
