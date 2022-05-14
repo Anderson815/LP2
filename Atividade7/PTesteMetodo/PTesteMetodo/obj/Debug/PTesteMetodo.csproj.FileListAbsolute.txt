@@ -1,0 +1,31 @@
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\bin\Debug\PTesteMetodo.exe.config
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\bin\Debug\PTesteMetodo.exe
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\bin\Debug\PTesteMetodo.pdb
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.csprojResolveAssemblyReference.cache
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmPrincipal.resources
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.Properties.Resources.resources
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.csproj.GenerateResource.Cache
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.exe
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.pdb
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmExercicio2.resources
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmExercicio3.resources
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmExercicio4.resources
+C:\Users\0030482121036\Desktop\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmExercicio5.resources
+D:\Anderson\LP2\PTesteMetodo\PTesteMetodo\bin\Debug\PTesteMetodo.exe.config
+D:\Anderson\LP2\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.exe
+D:\Anderson\LP2\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\bin\Debug\PTesteMetodo.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\bin\Debug\PTesteMetodo.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\bin\Debug\PTesteMetodo.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmPrincipal.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmExercicio2.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmExercicio3.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmExercicio4.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.frmExercicio5.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.Properties.Resources.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.csproj.GenerateResource.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade7\PTesteMetodo\PTesteMetodo\obj\Debug\PTesteMetodo.pdb
