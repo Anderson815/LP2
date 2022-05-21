@@ -1,0 +1,36 @@
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csprojResolveAssemblyReference.cache
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.Cache
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\obj\Debug\PAtividade8.exe
+C:\Users\0030482121036\Desktop\PAtividade8\PAtividade8\obj\Debug\PAtividade8.pdb
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.exe
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.pdb
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csprojResolveAssemblyReference.cache
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio1.resources
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.Cache
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio2.resources
+D:\Anderson\Faculdade\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio3.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.SuggestedBindingRedirects.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio1.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio2.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio3.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\Faculdade\2º Semestre\LP2\LP2-GitHub-Exercicios\Atividade8\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio4.resources
